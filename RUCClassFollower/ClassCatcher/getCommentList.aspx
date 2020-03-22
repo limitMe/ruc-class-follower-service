@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="getCommentList.aspx.cs" Inherits="RUCClassFollower.ClassCatcher.getCommentList" %>
